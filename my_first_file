@@ -2,6 +2,12 @@ int a;
 int b;
 int add = a+b;
 
+features
 int c; 
 int d;
 int pro = c*d;
+
+int x;
+int y;
+int sub = x-y;
+models
